@@ -49,7 +49,7 @@ Drop a ⭐ on the repo if this list helped you! Your support encourages me to co
 |VulcanForms|Software Engineering Intern||Devens, MA|Open✅|04/10/2025|[Apply Here](https://vulcanforms.bamboohr.com/careers/446)||
 |MoneyLion|AI Content Intern||New York, NY|Open✅|04/10/2025|[Apply Here](https://www.moneylion.com/careers-apply/?gh_jid=5497848004)||
 |↳|Backend Java Engineering Intern||New York, NY|Open✅|04/10/2025|[Apply Here](https://www.moneylion.com/careers-apply/?gh_jid=5497867004)||
-|↳|Data Science Intern||New York, NY|Open✅|04/10/2025|[Apply Here](https://www.moneylion.com/careers-apply/?gh_jid=5497807004)||
+|↳|Data Science Intern||New York, NY|Open✅|04/10/2025|[Apply Here](https://www.moneylion.com/careers-apply/?gh_jid=5497807004)|DONE|
 |Glean|Software Engineer Intern||Palo Alto, CA|Open✅|04/10/2025|[Apply Here](https://job-boards.greenhouse.io/gleanwork/jobs/4552477005)||
 |ZEISS|Advanced Development & Design Research Intern Cloud Computing|23 - 29|Dublin, CA|Open✅|04/10/2025|[Apply Here](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Cloud-Computing_JR_1040760-1)||
 |↳|Advanced Development & Design Research Intern Detectors|23 - 29|Dublin, CA|Open✅|04/10/2025|[Apply Here](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dublin-CA/ADD-Research-Intern-Detectors_JR_1040759-1)||
